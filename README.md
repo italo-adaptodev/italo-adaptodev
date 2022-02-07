@@ -7,11 +7,11 @@
 - 🌱 Estudando **Java, Kotlin, C#**
 
 - Experiência com 
-- ASP.NET MVC, ASP.NET WEB API e ASP.NET Core; 
-- HTML, CSS, RAZOR, JAVASCRIPT; 
-- GIT e GITLAB; 
-- SQL SERVER; 
-- ANDROID STUDIO; JAVA; KOTLIN
+  ASP.NET MVC, ASP.NET WEB API e ASP.NET Core; 
+  HTML, CSS, RAZOR, JAVASCRIPT; 
+  GIT e GITLAB; 
+  SQL SERVER; 
+  ANDROID STUDIO; JAVA; KOTLIN
 
 - 📫 Email **italoluisdev@gmail.com**
 
