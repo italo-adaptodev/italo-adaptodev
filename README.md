@@ -1,7 +1,9 @@
 <h1 align="center">Italo Luis</h1>
 <h5 align="center">E caso eu não te veja, bom dia, boa tarde e boa noite!</h5>
 <h5 align="center">Good morning, and in case I don't see ya, good afternoon, good evening, and good night!</h5>
-<h3 align="center">Desenvolvedor .NET Junior | Desenvolvedor Android Junior</h3>
+<h3 align="center">Desenvolvedor .NET Junior | Desenvolvedor Android Junior</h3> || <h3 align="center">
+Junior .NET Developer |  Junior Android Developer
+</h3>
 
 - 🔭 Atualmente trabalho na empresa/Working at **Computação Brasil**
 
