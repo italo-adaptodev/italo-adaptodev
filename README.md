@@ -1,6 +1,6 @@
 <h1 align="center">Italo Luis</h1>
-<h5 align="center">Bom dia, e caso eu não te veja, boa tarde, boa noite e boa noite!</h5>
-h3 align="center">Desenvolvedor .NET Junior | Desenvolvedor Android Junior |</h3>
+<h5 align="center">E caso eu não te veja, bom dia, boa tarde e boa noite!</h5>
+<h3 align="center">Desenvolvedor .NET Junior | Desenvolvedor Android Junior |</h3>
 
 - 🔭 Atualmente trabalho na empresa **Computação Brasil**
 
