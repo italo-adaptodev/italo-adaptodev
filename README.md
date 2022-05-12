@@ -7,7 +7,7 @@
 - 🌱 Estudando **Java, Kotlin, C#**
 
 - Experiência com 
-  1. ASP.NET MVC, ASP.NET WEB API e ASP.NET Core; 
+  1. ASP.NET CORE MVC, ASP.NET WEB API e ASP.NET Core; 
   2. HTML, CSS, RAZOR, JAVASCRIPT; 
   3. GIT e GITLAB; 
   4. SQL SERVER; 
